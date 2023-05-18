@@ -3,5 +3,7 @@ Aquí están los comandos
 Comandos para estudiar
 aaaaaa
 
+Buenas practicas sobre commits: 
+Realizar commits cada 15 - 20 min para respaldar nuestro código mientras los vamos desarollando.
 Ramas: Las ramas nos permiten agregar commits de manera segura, sin alterar directamente la rama 
 principal (main)
