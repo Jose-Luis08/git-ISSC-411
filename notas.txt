@@ -2,3 +2,6 @@ Comandos:
 Aquí están los comandos
 Comandos para estudiar
 aaaaaa
+
+Ramas: Las ramas nos permiten agregar commits de manera segura, sin alterar directamente la rama 
+principal (main)
